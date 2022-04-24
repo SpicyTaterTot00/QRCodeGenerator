@@ -1,3 +1,5 @@
+
+
 *{
   padding: 0;
   margin: 0;
@@ -45,7 +47,6 @@ input, button{
   border: none;
   background-color: #1d68d8;
 }
-
 button:hover {
   border: none;
   background-color: #ff676d;
@@ -106,6 +107,10 @@ button:hover {
     left: 0;
     top: 0;
     border-radius: 10px;
+}
+
+.about-btn{
+  
 }
 
 @keyframes glowing {
